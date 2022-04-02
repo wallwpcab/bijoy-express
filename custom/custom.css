@@ -1,0 +1,11 @@
+.error-msg{
+    color: #ac0707;
+    margin-top: 5px;
+    padding-left: 5px;
+    font-size: 10px;
+}
+
+
+.has-error{
+    border: 1px solid #ac0707;
+}

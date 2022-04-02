@@ -1,0 +1,6 @@
+table.display thead tr {background: #ECEDF0 !important;}
+table.display thead tr {border-bottom: 5px solid white;}
+table.display thead tr th{border-right: 3px solid white;}
+table.display tbody tr{background: #f6f6f6 !important;}
+table.display tbody tr td{border-bottom: 5px solid white !important;}
+table.display tbody tr td{border-right: 3px solid white !important;}
